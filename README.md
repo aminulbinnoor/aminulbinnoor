@@ -13,13 +13,11 @@ In DevOps, I utilize tools like Git 🐙, Docker 🐳, and Kubernetes ☸️, al
 </div>
  
 <div align="center"> 
-  <a href="mailto:farzeenaliarif786@gmail.com">
+  <a href="mailto:aminulbinnoor32@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-6C22A6?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-    <a href="https://www.youtube.com/@TheTechzeen" target="_blank">
-     <img src="https://img.shields.io/badge/YouTube-D71313?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/farzeen-ali-533479204" >
+    
+  <a href="https://www.linkedin.com/in/md-aminul-islam-a7269a13a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" >
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
@@ -36,10 +34,10 @@ In DevOps, I utilize tools like Git 🐙, Docker 🐳, and Kubernetes ☸️, al
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=farzeen-ali&show_icons=true&theme=midnight-purple" alt="Farzeen's GitHub Stats" height="200px" />
+        <img src="https://github-readme-stats.vercel.app/api?username=aminulbinnoor&show_icons=true&theme=midnight-purple" alt="Farzeen's GitHub Stats" height="200px" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farzeen-ali&layout=compact&theme=midnight-purple" alt="Farzeen's Top Languages" height="200px" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminulbinnoor&layout=compact&theme=midnight-purple" alt="Farzeen's Top Languages" height="200px" />
       </td>
     </tr>
   </table>
